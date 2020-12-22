@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+  <metadata>
+    <name>Zinal : Sorebois - Buvette de la Marmotte n°2a</name>
+    <link href="https://www.outdooractive.com/r/33004404"/>
+    <time>2020-10-23T14:37:56.933</time>
+    <extensions>
+      <oa:oaCategory>snowshoehiking</oa:oaCategory>
+    </extensions>
+  </metadata>
+  <trk>
+    <name>Zinal : Sorebois - Buvette de la Marmotte n°2a</name>
+    <desc>Direction : la Buvette de la Marmotte comme 1ère étape de ce tour n°2</desc>
+    <type>snowshoehiking</type>
+    <trkseg>
+      <trkpt lat="46.144361" lon="7.603113">
+        <ele>2437.5</ele>
+        <name>46.144362,7.603093</name>
+        <extensions>
+          <oa:mapZoom>18</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.14324" lon="7.602335">
+        <ele>2435.25122</ele>
+      </trkpt>
+      <trkpt lat="46.142697" lon="7.602078">
+        <ele>2435.79349</ele>
+      </trkpt>
+      <trkpt lat="46.142214" lon="7.601895">
+        <ele>2438.50066</ele>
+      </trkpt>
+      <trkpt lat="46.142154" lon="7.60167">
+        <ele>2438.93202</ele>
+      </trkpt>
+      <trkpt lat="46.142511" lon="7.601134">
+        <ele>2449.77271</ele>
+      </trkpt>
+      <trkpt lat="46.142779" lon="7.600747">
+        <ele>2459.69541</ele>
+      </trkpt>
+      <trkpt lat="46.142965" lon="7.600318">
+        <ele>2470.18412</ele>
+      </trkpt>
+      <trkpt lat="46.143069" lon="7.599675">
+        <ele>2478.712</ele>
+      </trkpt>
+      <trkpt lat="46.14321" lon="7.59931">
+        <ele>2485.27577</ele>
+      </trkpt>
+      <trkpt lat="46.144005" lon="7.597572">
+        <ele>2521.87116</ele>
+      </trkpt>
+      <trkpt lat="46.14431" lon="7.596971">
+        <ele>2532.48033</ele>
+      </trkpt>
+      <trkpt lat="46.144526" lon="7.596145">
+        <ele>2544.98339</ele>
+      </trkpt>
+      <trkpt lat="46.144712" lon="7.59578">
+        <ele>2553.47665</ele>
+      </trkpt>
+      <trkpt lat="46.145016" lon="7.595512">
+        <ele>2567.20327</ele>
+      </trkpt>
+      <trkpt lat="46.145154" lon="7.595522">
+        <ele>2569.65395</ele>
+      </trkpt>
+      <trkpt lat="46.145273" lon="7.595689">
+        <ele>2571.592</ele>
+      </trkpt>
+      <trkpt lat="46.145392" lon="7.595957">
+        <ele>2573.66491</ele>
+      </trkpt>
+      <trkpt lat="46.145455" lon="7.596504">
+        <ele>2576.35848</ele>
+      </trkpt>
+      <trkpt lat="46.145485" lon="7.596874">
+        <ele>2567.26509</ele>
+      </trkpt>
+      <trkpt lat="46.14557" lon="7.597062">
+        <ele>2568.02424</ele>
+      </trkpt>
+      <trkpt lat="46.145752" lon="7.597196">
+        <ele>2569.25943</ele>
+      </trkpt>
+      <trkpt lat="46.145927" lon="7.597137">
+        <ele>2574.06913</ele>
+      </trkpt>
+      <trkpt lat="46.146072" lon="7.596965">
+        <ele>2579.51387</ele>
+      </trkpt>
+      <trkpt lat="46.146284" lon="7.596327">
+        <ele>2595.31937</ele>
+      </trkpt>
+      <trkpt lat="46.146592" lon="7.595801">
+        <ele>2595.12135</ele>
+      </trkpt>
+      <trkpt lat="46.146815" lon="7.595587">
+        <ele>2599.00092</ele>
+      </trkpt>
+      <trkpt lat="46.147053" lon="7.595372">
+        <ele>2604.70993</ele>
+      </trkpt>
+      <trkpt lat="46.147432" lon="7.59526">
+        <ele>2610.88458</ele>
+      </trkpt>
+      <trkpt lat="46.147674" lon="7.595388">
+        <ele>2614.12373</ele>
+      </trkpt>
+      <trkpt lat="46.147848" lon="7.595598">
+        <ele>2618.21251</ele>
+      </trkpt>
+      <trkpt lat="46.148019" lon="7.595673">
+        <ele>2620.14581</ele>
+        <name>46.148019,7.595673</name>
+        <extensions>
+          <oa:mapZoom>17</oa:mapZoom>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

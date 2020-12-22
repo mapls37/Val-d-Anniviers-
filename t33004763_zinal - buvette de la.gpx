@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+  <metadata>
+    <name>Zinal : Buvette de la Marmotte - Bar à Pente n°2b</name>
+    <author>
+      <name>Anniviers Tourisme - Val d&apos;Anniviers</name>
+    </author>
+    <link href="https://www.outdooractive.com/r/33004763"/>
+    <time>2020-11-02T16:07:58.385</time>
+    <extensions>
+      <oa:oaCategory>snowshoehiking</oa:oaCategory>
+    </extensions>
+  </metadata>
+  <trk>
+    <name>Zinal : Buvette de la Marmotte - Bar à Pente n°2b</name>
+    <desc>Une petite montée, courte et efficace, pour rejoindre la terrasse du Bar à Pente</desc>
+    <type>snowshoehiking</type>
+    <trkseg>
+      <trkpt lat="46.148109" lon="7.59586">
+        <ele>2620.26367</ele>
+        <name>46.148109,7.595860</name>
+        <extensions>
+          <oa:mapZoom>18</oa:mapZoom>
+        </extensions>
+      </trkpt>
+      <trkpt lat="46.148224" lon="7.596032">
+        <ele>2620.36718</ele>
+      </trkpt>
+      <trkpt lat="46.148261" lon="7.596247">
+        <ele>2621.1566</ele>
+      </trkpt>
+      <trkpt lat="46.148304" lon="7.596381">
+        <ele>2620.40045</ele>
+      </trkpt>
+      <trkpt lat="46.14848" lon="7.596724">
+        <ele>2619.35205</ele>
+      </trkpt>
+      <trkpt lat="46.148603" lon="7.596965">
+        <ele>2620.12654</ele>
+      </trkpt>
+      <trkpt lat="46.148644" lon="7.596936">
+        <ele>2623.28808</ele>
+      </trkpt>
+      <trkpt lat="46.148655" lon="7.59688">
+        <ele>2624.83476</ele>
+      </trkpt>
+      <trkpt lat="46.148636" lon="7.596687">
+        <ele>2627.14549</ele>
+      </trkpt>
+      <trkpt lat="46.148638" lon="7.596579">
+        <ele>2628.77752</ele>
+      </trkpt>
+      <trkpt lat="46.148647" lon="7.596536">
+        <ele>2630.09049</ele>
+      </trkpt>
+      <trkpt lat="46.148675" lon="7.596566">
+        <ele>2631.13386</ele>
+      </trkpt>
+      <trkpt lat="46.148809" lon="7.596751">
+        <ele>2635.2777</ele>
+      </trkpt>
+      <trkpt lat="46.148859" lon="7.596729">
+        <ele>2638.07488</ele>
+      </trkpt>
+      <trkpt lat="46.148839" lon="7.596646">
+        <ele>2638.52997</ele>
+      </trkpt>
+      <trkpt lat="46.14883" lon="7.596577">
+        <ele>2638.80455</ele>
+      </trkpt>
+      <trkpt lat="46.148828" lon="7.596491">
+        <ele>2639.79355</ele>
+      </trkpt>
+      <trkpt lat="46.148939" lon="7.596681">
+        <ele>2642.27675</ele>
+      </trkpt>
+      <trkpt lat="46.149069" lon="7.596397">
+        <ele>2650.21871</ele>
+      </trkpt>
+      <trkpt lat="46.149253" lon="7.59645">
+        <ele>2652.48015</ele>
+      </trkpt>
+      <trkpt lat="46.149168" lon="7.596418">
+        <ele>2651.43586</ele>
+      </trkpt>
+      <trkpt lat="46.149391" lon="7.596574">
+        <ele>2656.22907</ele>
+      </trkpt>
+      <trkpt lat="46.149916" lon="7.595852">
+        <ele>2670.18063</ele>
+      </trkpt>
+      <trkpt lat="46.150112" lon="7.595893">
+        <ele>2675.67721</ele>
+      </trkpt>
+      <trkpt lat="46.150204" lon="7.595874">
+        <ele>2678.84564</ele>
+      </trkpt>
+      <trkpt lat="46.150245" lon="7.595783">
+        <ele>2681.10307</ele>
+      </trkpt>
+      <trkpt lat="46.150281" lon="7.595611">
+        <ele>2685.22027</ele>
+      </trkpt>
+      <trkpt lat="46.150294" lon="7.595445">
+        <ele>2688.92197</ele>
+      </trkpt>
+      <trkpt lat="46.150286" lon="7.595179">
+        <ele>2687.53072</ele>
+        <name>46.150286,7.595179</name>
+        <extensions>
+          <oa:mapZoom>19</oa:mapZoom>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
